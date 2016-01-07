@@ -1,0 +1,8 @@
+multipart:
+  maxFileSize: 10240KB
+  maxRequestSize: 10240KB
+vault:
+  baseDirectory: /Users/ffazil/vault/files
+  dbFile: /Users/ffazil/vaultdb
+server:
+  context-path:
